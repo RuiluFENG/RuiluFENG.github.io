@@ -18,9 +18,9 @@
 ##############################
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://jinchaoli.com # the base hostname & protocol for your site e.g. https://www.someone.com
+url     : https://ruilufeng.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Jinchao Li
+title   : Ruilu FENG
 description: Enjoy your life!
 
 
@@ -34,16 +34,16 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Jinchao Li
-  url       : https://jinchaoli.com
-  avatar    : /assets/images/Jinchao.png # path or url of avatar image (square)
+  name      : Ruilu FENG
+  url       : https://ruilufeng.github.io
+  avatar    : /assets/images/RuiluFENG.jpeg # path or url of avatar image (square)
   bio       : > # > means to ignore newlines until "email"
     Ph.D. at <a href="https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory/" target="_blank">HCCL</a> Lab<br>
     <a href="https://cuhk.edu.hk" target="_blank">CUHK</a>, Hong Kong, China
-  email     : jcli@se.cuhk.edu.hk
-  github    : JinchaoLove # "user_name" the last part of your profile url, e.g. https://github.com/user_name
-  gscholar  : 0LWE_dkAAAAJ # "user_id" https://scholar.google.com/citations?hl=en&user=user_id
-  rgate     : Jinchao-Li-3 # "user_name" https://www.researchgate.net/profile/user_name
+  email     : rfengaa@connect.ust.hk
+  github    : # RuiluFENG "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  gscholar  : 5CHFG_MAAAAJ # "user_id" https://scholar.google.com/citations?hl=en&user=user_id
+  rgate     : Ruilu-Feng # "user_name" https://www.researchgate.net/profile/user_name
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
@@ -58,7 +58,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: JinchaoLove/JinchaoLove.github.io
+repository: RuiluFENG/RuiluRENG.github.io
 repository_tree: main
 
 
