@@ -38,8 +38,8 @@ author:
   url       : https://ruilufeng.github.io
   avatar    : /assets/images/RuiluFENG.jpeg # path or url of avatar image (square)
   bio       : > # > means to ignore newlines until "email"
-    Ph.D. at <a href="https://www.se.cuhk.edu.hk/laboratories/human-computer-communications-laboratory/" target="_blank">HCCL</a> Lab<br>
-    <a href="https://cuhk.edu.hk" target="_blank">CUHK</a>, Hong Kong, China
+    Ph.D. at <a href="http://biomaterials.ust.hk/people.html" target="_blank">YC Lab</a> Lab<br>
+    <a href="https://hkust.edu.hk/home?cn=1" target="_blank">HKUST</a>, Hong Kong, China<br>  
   email     : rfengaa@connect.ust.hk
   github    : # RuiluFENG "user_name" the last part of your profile url, e.g. https://github.com/user_name
   gscholar  : 5CHFG_MAAAAJ # "user_id" https://scholar.google.com/citations?hl=en&user=user_id
